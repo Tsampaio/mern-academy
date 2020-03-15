@@ -11,8 +11,8 @@ const DUMMY_PLACES = [
     imageUrl: 'https://www.tripsavvy.com/thmb/iyspJOwO3zsWsOWtERqo3cWrSHE=/2576x2576/smart/filters:no_upscale()/empire-state-building-at-sunset-171080501-59f9d0c6d088c000102668bb.jpg',
     address: '20 W 34th St, New York, NY 10001',
     location: {
-      lat: '40.7484445',
-      lng: '-73.9878531'
+      lat: 40.7484445,
+      lng: -73.9878531
     },
     creator: 'u1'
   },
@@ -23,8 +23,8 @@ const DUMMY_PLACES = [
     imageUrl: 'https://www.tripsavvy.com/thmb/iyspJOwO3zsWsOWtERqo3cWrSHE=/2576x2576/smart/filters:no_upscale()/empire-state-building-at-sunset-171080501-59f9d0c6d088c000102668bb.jpg',
     address: '20 W 34th St, New York, NY 10001',
     location: {
-      lat: '40.7484445',
-      lng: '-73.9878531'
+      lat: 40.7484445,
+      lng: -73.9878531
     },
     creator: 'u2'
   },
